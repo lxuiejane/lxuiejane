@@ -1,6 +1,8 @@
 # 𝐇𝐈, 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆!
 I'm currently studying more n more at school! But my progress remains here!
 
+![Image](https://github.com/user-attachments/assets/def81326-30b1-4d46-a4bd-aa13701ad358)
+
 # ╔═══━━━────── ⋆ ──────━━━═══╗
 
 ### 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀:
@@ -19,6 +21,8 @@ I'm currently studying more n more at school! But my progress remains here!
 ![](https://github-contributor-stats.vercel.app/api?username=lxuiejane&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 # ╚═══━━━────── ⋆ ──────━━━═══╝
+
+![Image](https://github.com/user-attachments/assets/def81326-30b1-4d46-a4bd-aa13701ad358)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lxuiejane&icon=9&color=1)](https://visitcount.itsvg.in)
