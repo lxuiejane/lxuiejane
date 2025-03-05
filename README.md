@@ -1,6 +1,7 @@
 # 𝐇𝐈, 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆!
-I'm currently studying.
+I'm currently studying more n more at school! But my progress remains here!
 
+# ╔═══━━━────── ⋆ ──────━━━═══╗
 
 ### 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssyn.ced) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sov.zone) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@sovzone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sovzone.dev@outook.com) 
@@ -18,7 +19,10 @@ I'm currently studying.
 ### 𝐓𝐎𝐏 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐄𝐃 𝐑𝐄𝐏𝐎:
 ![](https://github-contributor-stats.vercel.app/api?username=lxuiejane&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+# ╚═══━━━────── ⋆ ──────━━━═══╝
+
 ---
 [![](https://visitcount.itsvg.in/api?id=lxuiejane&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
