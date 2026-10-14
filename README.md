@@ -1,8 +1,6 @@
 # 𝐇𝐈, 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆!
 I'm currently studying more n more at school! But my progress remains here!
 
-![Image](https://github.com/user-attachments/assets/def81326-30b1-4d46-a4bd-aa13701ad358)
-
 # ╔═══━━━────── ⋆ ──────━━━═══╗
 
 
@@ -24,8 +22,6 @@ I'm currently studying more n more at school! But my progress remains here!
 [![](https://komarev.com/ghpvc/?username=lxuiejane&icon=6&color=1)](https://visitcount.itsvg.in)
 
 # ╚═══━━━────── ⋆ ──────━━━═══╝
-
-![Image](https://github.com/user-attachments/assets/def81326-30b1-4d46-a4bd-aa13701ad358)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lxuiejane&icon=9&color=3)](https://visitcount.itsvg.in)
